@@ -1,12 +1,12 @@
 # PitchPerfect
 
-# Description
+### Description
 The app records sound then play it back with different effects, such as a chipmunk or Darth Vader! There are six different voice-effects supported.
 
-## Framework
+### Framework
 Foundation
 UIKit
 AVFoundation
 
-# Installation
+### Installation
 Clone then run on Xcode.
